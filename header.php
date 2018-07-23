@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>CHMSC LMS</title>
+        <title>Employee Training Database</title>
 		<meta name="description" content="Kisumu Employee Training System">
 		<meta name="keywords" content="Employee Training System">
 		<meta name="author" content="STEPHEN ODIPO">

@@ -1,8 +1,8 @@
 <center>
 		<footer>
 		
-		<p>CHMSC M-Learning Copyright 2013</p>
-			<!-- <p>Programmed by: John Kevin Lorayna BSIS 4-A</p> -->
+		<p>Kisumu CHMT Copyright 2018</p>
+			<!-- <p>Programmed by: Stephen Odipo</p> -->
 		</footer>
 </center>
 
