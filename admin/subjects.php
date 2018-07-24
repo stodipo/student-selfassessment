@@ -12,7 +12,7 @@
                         <!-- block -->
                         <div id="block_bg" class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left">Subject List</div>
+                                <div class="muted pull-left">Trainings List</div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
@@ -23,8 +23,8 @@
 										<thead>
 										  <tr>
 											    <th></th>
-												<th>Subject Code</th>
-												<th>Subject Title</th>
+												<th>Training Code</th>
+												<th>Training Title</th>
 												<th></th>
 										   </tr>
 										</thead>
