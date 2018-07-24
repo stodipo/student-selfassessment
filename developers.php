@@ -17,43 +17,13 @@
 										<center>
 										<img id="developers" src="admin/images/jkev.jpg" class="img-circle">
 										<hr>
-										<p>Name: John Kevin Lorayna</p>
-										<p>Address: Bago City</p>
-										<p>Email: jkevlorayna@gmail.com</p>
+										<p>Name: Stephen Odipo</p>
+										<p>Address: 6627-40103</p>
+										<p>Email: odipo87@gmail.com</p>
 										<p>Position: Programmer</p>
 										</center>
 								</div>
-                                <div class="span3">
-															<center>
-								<img id="developers" src="admin/images/jelyn.jpg" class="img-circle">
-								<hr>
-																				<p>Name: Jorgielyn Serfino</p>
-
-										<p>Address: Bago City</p>
-										<p>Email: jkevlorayna@gmail.com</p>
-										<p>Position: Programmer</p>
-								</center>
-								</div>
-                                <div class="span3">
-															<center>
-								<img id="developers" src="admin/images/jorge.jpg" class="img-circle">
-								<hr>
-												<p>Name: Jorgielyn Serfino</p>
-										<p>Address: Ilog</p>
-										<p>Email: jkevlorayna@gmail.com</p>
-										<p>Position: Project Manager</p>
-								</center>
-								</div>
-                                <div class="span3">
-															<center>
-								<img id="developers" src="admin/images/mich.jpg" class="img-circle">
-								<hr>
-												<p>Name: John Kevin Lorayna</p>
-										<p>Address: Talisay City</p>
-										<p>Email: jkevlorayna@gmail.com</p>
-										<p>Position: Project Manager</p>
-								</center>
-								</div>
+                               
                             </div>
                         </div>
                         <!-- /block -->

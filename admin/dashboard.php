@@ -14,7 +14,7 @@
                         <!-- block -->
                         <div id="block_bg" class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left">Data Numbers</div>
+                                <div class="muted pull-left">Data Summary</div>
                             </div>
                             <div class="block-content collapse in">
 							        <div class="span12">
@@ -35,7 +35,6 @@
 								$query_teacher = mysql_query("select * from teacher")or die(mysql_error());
 								$count_teacher = mysql_num_rows($query_teacher);
 								?>
-								
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_teacher; ?>"><?php echo $count_teacher ?></div>
@@ -119,9 +118,6 @@
 						
                     </div>
                     </div>
-                
-                
-                 
                  
                 </div>
             </div>
