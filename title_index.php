@@ -30,7 +30,7 @@
 						<div class="span12">
 						<br>
 								<div class="motto">
-												<p>EMPLOYEE TRAINING MANAGEMENT SYSTEM</p>
+												<p>EMPLOYEE TRAINING MANAGEMENT SYSTEM</p><br />
 												<p>Excellence, Competence and Accountability</p>
 																			</div>		
 						</div>		
