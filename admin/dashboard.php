@@ -26,7 +26,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_reg_teacher; ?>"><?php echo $count_reg_teacher; ?></div>
-                                    <div class="chart-bottom-heading"><strong>Registered Teacher</strong>
+                                    <div class="chart-bottom-heading"><strong>Active Dep Admins</strong>
 
                                     </div>
                                 </div>
@@ -38,7 +38,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_teacher; ?>"><?php echo $count_teacher ?></div>
-                                    <div class="chart-bottom-heading"><strong>Teachers</strong>
+                                    <div class="chart-bottom-heading"><strong>All Dep Admins</strong>
 
                                     </div>
                                 </div>
@@ -50,7 +50,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_student ?>"><?php echo $count_student ?></div>
-                                    <div class="chart-bottom-heading"><strong>Registered Students</strong>
+                                    <div class="chart-bottom-heading"><strong>Registered Employees</strong>
 
                                     </div>
                                 </div>
@@ -63,15 +63,12 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_student ?>"><?php echo $count_student ?></div>
-                                    <div class="chart-bottom-heading"><strong>Students</strong>
+                                    <div class="chart-bottom-heading"><strong>All Employees</strong>
 
                                     </div>
                                 </div>
 								
 								
-								
-								
-							
 								
 									<?php 
 								$query_class = mysql_query("select * from class")or die(mysql_error());
@@ -80,7 +77,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_class; ?>"><?php echo $count_class; ?></div>
-                                    <div class="chart-bottom-heading"><strong>Class</strong>
+                                    <div class="chart-bottom-heading"><strong>Departments</strong>
 
                                     </div>
                                 </div>
@@ -93,7 +90,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_file; ?>"><?php echo $count_file; ?></div>
-                                    <div class="chart-bottom-heading"><strong>Downloadable File</strong>
+                                    <div class="chart-bottom-heading"><strong>Downloadable Files</strong>
 
                                     </div>
                                 </div>
@@ -106,7 +103,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_subject; ?>"><?php echo $count_subject; ?></div>
-                                    <div class="chart-bottom-heading"><strong>Subjects</strong>
+                                    <div class="chart-bottom-heading"><strong>Trainings</strong>
 
                                     </div>
                                 </div>
