@@ -4,7 +4,7 @@
                         <li>
                             <a href="department.php"><i class="icon-chevron-right"></i><i class="icon-building"></i> County Heads</a>
                         </li>
-                        <li class"active">
+                        <li class="active">
                             <a href="class.php"><i class="icon-chevron-right"></i><i class="icon-group"></i> Departments</a>
                         </li>
                         <li>
