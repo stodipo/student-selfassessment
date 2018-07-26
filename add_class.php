@@ -24,7 +24,7 @@
                                         </div>
 										
 										<div class="control-group">
-											<label>Subject:</label>
+											<label>Training Subject:</label>
                                           <div class="controls">
                                             <select name="subject_id"  class="" required>
                                              	<option></option>
