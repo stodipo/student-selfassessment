@@ -7,7 +7,7 @@
                                 <div class="span12">
 								<form method="post" id="add_class">
 										<div class="control-group">
-											<label>Class Name:</label>
+											<label>Select Department:</label>
                                           <div class="controls">
 											<input type="hidden" name="session_id" value="<?php echo $session_id; ?>">
                                             <select name="class_id"  class="" required>
