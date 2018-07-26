@@ -3,7 +3,7 @@
 			<input type="text" class="input-block-level" id="username" name="username" placeholder="ID Number" required>
 			<input type="text" class="input-block-level" id="firstname" name="firstname" placeholder="Firstname" required>
 			<input type="text" class="input-block-level" id="lastname" name="lastname" placeholder="Lastname" required>
-			<label>Class</label>
+			<label>Training Class</label>
 			<select name="class_id" class="input-block-level span5">
 				<option></option>
 				<?php
