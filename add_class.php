@@ -1,7 +1,7 @@
 						<!-- block -->
                         <div class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div id="" class="muted pull-left"><h4><i class="icon-plus-sign"></i> Add class</h4></div>
+                                <div id="" class="muted pull-left"><h4><i class="icon-plus-sign"></i> Add Training</h4></div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
@@ -24,7 +24,7 @@
                                         </div>
 										
 										<div class="control-group">
-											<label>Training Subject:</label>
+											<label>Training Topic:</label>
                                           <div class="controls">
                                             <select name="subject_id"  class="" required>
                                              	<option></option>
@@ -40,7 +40,7 @@
                                         </div>
 										
 										<div class="control-group">
-											<label>School Year:</label>
+											<label>Year:</label>
                                           <div class="controls">
 											<?php
 											$query = mysql_query("select * from school_year order by school_year DESC");

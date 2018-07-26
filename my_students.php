@@ -9,8 +9,8 @@
                 <div class="span9" id="content">
                      <div class="row-fluid">
 						<div class="pull-right">
-							<a href="add_student.php<?php echo '?id='.$get_id; ?>" class="btn btn-info"><i class="icon-plus-sign"></i> Add Student</a>
-							<a onclick="window.open('print_student.php<?php echo '?id='.$get_id; ?>')"  class="btn btn-success"><i class="icon-list"></i> Student List</a>
+							<a href="add_student.php<?php echo '?id='.$get_id; ?>" class="btn btn-info"><i class="icon-plus-sign"></i> Add Employee</a>
+							<a onclick="window.open('print_student.php<?php echo '?id='.$get_id; ?>')"  class="btn btn-success"><i class="icon-list"></i> Employee List</a>
 						</div>
 						<?php include('my_students_breadcrums.php'); ?>
                         <!-- block -->
@@ -64,7 +64,7 @@
 															success: function(html){
 																$("#del"+id).fadeOut('slow', function(){ $(this).remove();}); 
 																$('#'+id).modal('hide');
-																$.jGrowl("Your Student is Successfully Remove", { header: 'Student Remove' });
+																$.jGrowl("Your Employee is Successfully Remove", { header: 'Employee Remove' });
 															}
 															}); 	
 															return false;
