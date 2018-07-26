@@ -46,7 +46,7 @@
 				<h3 class="form-signin-heading"><i class="icon-edit"></i> Sign up</h3>
 				<button data-placement="top" title="Sign In as Employee" id="signin_student" onclick="window.location='signup_student.php'" id="btn_student" name="login" class="btn btn-info" type="submit">I`m an Employee</button>
 				<div class="pull-right">
-					<button data-placement="top" title="Sign In as Dep. Admin" id="signin_teacher" onclick="window.location='signup_teacher.php'" name="login" class="btn btn-info" type="submit">I`m a Dep. Admin</button>
+					<button data-placement="top" title="Sign In as Training Admin" id="signin_teacher" onclick="window.location='signup_teacher.php'" name="login" class="btn btn-info" type="submit">I`m a Dep. Admin</button>
 				</div>
 			</div>
 														<script type="text/javascript">
