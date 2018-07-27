@@ -23,7 +23,7 @@
 					</div>
 					<div class="modal-body">
 					<div class="alert alert-danger">
-					<p>Are you sure you want to delete the department you check?.</p>
+					<p>Are you sure you want to delete the department selected?</p>
 					</div>
 					</div>
 					<div class="modal-footer">
@@ -32,15 +32,15 @@
 					</div>
 					</div>
 					
-								<!-- class delete modal -->
+								<!-- Employee department delete modal -->
 					<div id="class_delete" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 					<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
-					<h3 id="myModalLabel">Delete Class?</h3>
+					<h3 id="myModalLabel">Delete Employee Department?</h3>
 					</div>
 					<div class="modal-body">
 					<div class="alert alert-danger">
-					<p>Are you sure you want to delete the class you check?.</p>
+					<p>Are you sure you want to delete the Employee Department selected?</p>
 					</div>
 					</div>
 					<div class="modal-footer">
@@ -53,11 +53,12 @@
 					<div id="student_delete" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 					<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
-					<h3 id="myModalLabel">Delete Student?</h3>
+					<h3 id="myModalLabel">Delete Employee?</h3>
 					</div>
 					<div class="modal-body">
 					<div class="alert alert-danger">
-					<p>Are you sure you want to delete the student you check?.</p>
+					<p>Hold on !!!</p>
+					<p>Are you sure you want to delete the employee selected?</p>
 					</div>
 					</div>
 					<div class="modal-footer">
@@ -67,15 +68,16 @@
 					</div>
 					
 					
-											<!-- student delete modal -->
+											<!-- training administrator delete modal -->
 					<div id="teacher_delete" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 					<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
-					<h3 id="myModalLabel">Delete Teacher?</h3>
+					<h3 id="myModalLabel">Delete Training Administrator?</h3>
 					</div>
 					<div class="modal-body">
 					<div class="alert alert-danger">
-					<p>Are you sure you want to delete the teacher you check?.</p>
+					<p>Hold on!!!</p>
+					<p>Are you sure you want to delete the training administrator you selected?</p>
 					</div>
 					</div>
 					<div class="modal-footer">
@@ -108,11 +110,11 @@
 					<div id="subject_delete" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 					<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
-					<h3 id="myModalLabel">Delete Subject?</h3>
+					<h3 id="myModalLabel">Delete Training?</h3>
 					</div>
 					<div class="modal-body">
 					<div class="alert alert-danger">
-					<p>Are you sure you want to delete the subject you check?.</p>
+					<p>Are you sure you want to delete the training selected?</p>
 					</div>
 					</div>
 					<div class="modal-footer">
