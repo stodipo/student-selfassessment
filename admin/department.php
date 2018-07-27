@@ -24,7 +24,7 @@
 										<thead>
 										  <tr>
 												<th></th>
-												<th>Department</th>
+												<th>County Department</th>
 												<th>Person In-charge</th>
 											
 												<th></th>
