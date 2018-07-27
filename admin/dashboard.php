@@ -50,7 +50,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_student ?>"><?php echo $count_student ?></div>
-                                    <div class="chart-bottom-heading"><strong>Registered Employees</strong>
+                                    <div class="chart-bottom-heading"><strong>Active Employees</strong>
 
                                     </div>
                                 </div>
