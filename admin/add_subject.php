@@ -30,19 +30,15 @@
 											</div>
 										</div>
 										<div class="control-group">
-											<label class="control-label" for="inputPassword">Number of Units</label>
+											<label class="control-label" for="inputPassword">Number of Days</label>
 											<div class="controls">
 											<input type="text" class="span1" name="unit" id="inputPassword" required>
 											</div>
 										</div>
 											<div class="control-group">
-											<label class="control-label" for="inputPassword">Semester</label>
+											<label class="control-label" for="inputPassword">Venue</label>
 											<div class="controls">
-												<select name="semester">
-													<option></option>
-													<option>1st</option>
-													<option>2nd</option>
-												</select>
+											<input type="text" class="span8" name="semester" id="inputPassword" placeholder="Venue" required>
 											</div>
 										</div>
 								
