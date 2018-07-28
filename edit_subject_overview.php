@@ -21,7 +21,7 @@
 					     <ul class="breadcrumb">
 							<li><a href="#"><?php echo $class_row['class_name']; ?></a> <span class="divider">/</span></li>
 							<li><a href="#"><?php echo $class_row['subject_code']; ?></a> <span class="divider">/</span></li>
-							<li><a href="#"><b>Subject Overview</b></a></li>
+							<li><a href="#"><b>Training Overview</b></a></li>
 						</ul>
 						 <!-- end breadcrumb -->
 					 
@@ -40,7 +40,7 @@
 								?>
 														<form class="form-horizontal" method="post">
 																<div class="control-group">
-																	<label class="control-label" for="inputPassword">Subject Overview Content:</label>
+																	<label class="control-label" for="inputPassword">Training Overview Content:</label>
 																	<div class="controls">
 																			<textarea name="content" id="ckeditor_full"><?php echo $subject_row['content']; ?></textarea>
 																	</div>
