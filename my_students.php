@@ -22,7 +22,7 @@
 														LEFT JOIN student ON student.student_id = teacher_class_student.student_id 
 														INNER JOIN class ON class.class_id = student.class_id where teacher_class_id = '$get_id' order by lastname ")or die(mysql_error());
 								$count_my_student = mysql_num_rows($my_student);?>
-								Number of Students: <span class="badge badge-info"><?php echo $count_my_student; ?></span>
+								Number of Employees: <span class="badge badge-info"><?php echo $count_my_student; ?></span>
 								</div>
                             </div>
                             <div class="block-content collapse in">
