@@ -1,7 +1,7 @@
 	      <!-- block -->
                         <div class="block" id="search_class">
                             <div class="navbar navbar-inner block-header">
-                                <div id="" class="muted pull-left"><strong>Search Past Class</strong></div>
+                                <div id="" class="muted pull-left"><strong>Search Previous Training</strong></div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
