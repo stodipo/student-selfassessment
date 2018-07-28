@@ -4,15 +4,15 @@
 				      <!-- block -->
                         <div class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div id="" class="muted pull-left"><h4><i class="icon-pencil"></i> Create Message</h4></div>
+                                <div id="" class="muted pull-left"><h4><i class="icon-pencil"></i> Compose Message</h4></div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
 									<ul class="nav nav-tabs">
 										<li class="active">
-											<a href="teacher_message.php">For Teacher</a>
+											<a href="teacher_message.php">For Training Admin</a>
 										</li>
-										<li><a href="teacher_message_teacher.php">For Student</a></li>
+										<li><a href="teacher_message_teacher.php">For Employee</a></li>
 									</ul>
 									
 								
