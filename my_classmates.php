@@ -21,8 +21,8 @@
 					     <ul class="breadcrumb">
 							<li><a href="#"><?php echo $row['class_name']; ?></a> <span class="divider">/</span></li>
 							<li><a href="#"><?php echo $row['subject_code']; ?></a> <span class="divider">/</span></li>
-							<li><a href="#">School Year: <?php echo $row['school_year']; ?></a> <span class="divider">/</span></li>
-							<li><a href="#"><b>My Classmates</b></a></li>
+							<li><a href="#">Year: <?php echo $row['school_year']; ?></a> <span class="divider">/</span></li>
+							<li><a href="#"><b>Participants</b></a></li>
 						</ul>
 						
 						 <!-- end breadcrumb -->
