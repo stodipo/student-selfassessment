@@ -11,4 +11,3 @@
 			</ul>
 			<?php include('search_other_class.php'); ?>		
 </div>
-
