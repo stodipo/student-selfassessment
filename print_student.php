@@ -10,7 +10,7 @@
                      <div class="row-fluid">
 						<div class="pull-right">
 						
-							<a id="print" onclick="window.print()"  class="btn btn-success"><i class="icon-print"></i> Print Student List</a>
+							<a id="print" onclick="window.print()"  class="btn btn-success"><i class="icon-print"></i> Print Employee List</a>
 						</div>
 						<?php include('my_students_breadcrums.php'); ?>
                         <!-- block -->
