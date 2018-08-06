@@ -63,7 +63,7 @@
 									</div>
 									<div class="span4">
 											
-			<div class="alert alert-info">Check The Class you want to put this file.</div>
+			<div class="alert alert-info">Check The Department you want to put this file.</div>
 					
 									<div class="pull-left">
 							Check All <input type="checkbox"  name="selectAll" id="checkAll" />
