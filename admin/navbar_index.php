@@ -5,7 +5,7 @@
                      <span class="icon-bar"></span>
                      <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="#">Employee Training Management System</a>
+                    <a class="brand" href="#">Academic Resource System</a>
                     <div class="nav-collapse collapse">
                  
                     </div>

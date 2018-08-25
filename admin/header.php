@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>Employee Training Management System</title>
+        <title>Admin Centre</title>
         <!-- Bootstrap -->
 			<!-- <link href="images/logo.png" rel="icon" type="image"> -->
 			<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">

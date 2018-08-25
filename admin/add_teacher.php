@@ -2,7 +2,7 @@
                         <!-- block -->
                         <div class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left">Add Training Administrator</div>
+                                <div class="muted pull-left">Add Teacher</div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
@@ -34,13 +34,13 @@
 										
 										<div class="control-group">
                                           <div class="controls">
-                                            <input class="input focused" name="firstname" id="focusedInput" type="text" placeholder = "Firstname" required>
+                                            <input class="input focused" name="firstname" id="focusedInput" type="text" placeholder = "Firstname">
                                           </div>
                                         </div>
 										
 										<div class="control-group">
                                           <div class="controls">
-                                            <input class="input focused" name="lastname" id="focusedInput" type="text" placeholder = "Lastname" required>
+                                            <input class="input focused" name="lastname" id="focusedInput" type="text" placeholder = "Lastname">
                                           </div>
                                         </div>
 										

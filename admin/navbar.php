@@ -1,11 +1,11 @@
-<div class="navbar navbar-fixed-top navbar-inverse">
+  <div class="navbar navbar-fixed-top navbar-inverse">
             <div class="navbar-inner">
                 <div class="container-fluid">
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span>
                      <span class="icon-bar"></span>
                      <span class="icon-bar"></span>
                     </a>
-                    <span class="brand" href="#">Employee Training Management System ADMIN Panel</span>
+                    <span class="brand" href="#">Academic Resource System ADMIN Panel</span>
                     <div class="nav-collapse collapse">
                         <ul class="nav pull-right">
 						<?php $query= mysql_query("select * from users where user_id = '$session_id'")or die(mysql_error());
@@ -16,9 +16,9 @@
 
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li>
+                                    <!-- <li>
                                         <a tabindex="-1" href="#">Profile</a>
-                                    </li>
+                                    </li> -->
                                     <li class="divider"></li>
                                     <li>
                                         <a tabindex="-1" href="logout.php"><i class="icon-signout"></i>&nbsp;Logout</a>

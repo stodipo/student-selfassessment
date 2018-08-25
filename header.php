@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>Employee Training Database</title>
-		<meta name="description" content="Kisumu Employee Training System">
-		<meta name="keywords" content="Employee Training System">
+        <title>Academic Resource System</title>
+		<meta name="description" content="Student Academic Resource System">
+		<meta name="keywords" content="Academic Resource System">
 		<meta name="author" content="STEPHEN ODIPO">
 		<meta charset="UTF-8">
         <!-- Bootstrap -->

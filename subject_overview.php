@@ -18,7 +18,7 @@
 					     <ul class="breadcrumb">
 							<li><a href="#"><?php echo $class_row['class_name']; ?></a> <span class="divider">/</span></li>
 							<li><a href="#"><?php echo $class_row['subject_code']; ?></a> <span class="divider">/</span></li>
-							<li><a href="#"><b>Training Overview</b></a></li>
+							<li><a href="#"><b>Subject Overview</b></a></li>
 						</ul>
 						 <!-- end breadcrumb -->
                         <!-- block -->
@@ -33,9 +33,9 @@
 										$count = mysql_num_rows($query);
 									if ($count > 0){
 									?>
-										  <a href="edit_subject_overview.php<?php echo '?id='.$get_id; ?>&<?php echo 'subject_id='.$id; ?>" class="btn btn-info"><i class="icon-pencil"></i> Edit Training Overview</a>
+										  <a href="edit_subject_overview.php<?php echo '?id='.$get_id; ?>&<?php echo 'subject_id='.$id; ?>" class="btn btn-info"><i class="icon-pencil"></i> Edit Subject Overview</a>
 									 <?php }else{ ?>
-										     <a href="add_subject_overview.php<?php echo '?id='.$get_id; ?>" class="btn btn-success"><i class="icon-plus-sign"></i> Add Training Overview</a>
+										     <a href="add_subject_overview.php<?php echo '?id='.$get_id; ?>" class="btn btn-success"><i class="icon-plus-sign"></i> Add Subject Overview</a>
 									 <?php } ?>
 								</div>
                             </div>

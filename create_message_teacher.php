@@ -4,15 +4,15 @@
 				      <!-- block -->
                         <div class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div id="" class="muted pull-left"><h4><i class="icon-pencil"></i> Compose Message</h4></div>
+                                <div id="" class="muted pull-left"><h4><i class="icon-pencil"></i> Create Message</h4></div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
 									<ul class="nav nav-tabs">
 										<li>
-											<a href="teacher_message.php">For Training Admin</a>
+											<a href="teacher_message.php">For Teacher</a>
 										</li>
-										<li class="active"><a href="teacher_message_teacher.php">For Employee</a></li>
+										<li class="active"><a href="teacher_message_teacher.php">For Student</a></li>
 									</ul>
 									
 		
@@ -61,7 +61,7 @@
 						data: formData,
 						success: function(html){
 						
-						$.jGrowl("Message Successfully Sended", { header: 'Message Sent' });
+						$.jGrowl("Message Successfully Sent", { header: 'Message Sent' });
 						var delay = 2000;
 							setTimeout(function(){ window.location = 'teacher_message.php'  }, delay);  
 						

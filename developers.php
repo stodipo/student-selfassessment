@@ -15,15 +15,56 @@
 							<hr>
                                 <div class="span3">
 										<center>
-										<img id="developers" src="admin/images/jkev.jpg" class="img-circle">
+										<img id="developers" src="admin/images/admin.jpg" class="img-circle">
 										<hr>
-										<p>Name: Stephen Odipo</p>
-										<p>Address: 6627-40103</p>
+										<p>Name: Stephen Odhiambo Odipo</p>
+										<p>Address: P.O BOX 6627 - 40103 Kisumu</p>
 										<p>Email: odipo87@gmail.com</p>
 										<p>Position: Programmer</p>
 										</center>
 								</div>
-                               
+                                <div class="span3">
+															<center>
+								<img id="developers" src="admin/images/admin.jpg" class="img-circle">
+								<hr>
+										<p>Name: Alex Kimeu</p>
+
+										<p>Address: Nairobi</p>
+										<p>Email: kimeualexis@gmail.com</p>
+										<p>Position: Programmer</p>
+								</center>
+								</div>
+                                <div class="span3">
+															<center>
+								<img id="developers" src="admin/images/admin.jpg" class="img-circle">
+								<hr>
+												<p>Name: Mary Njuguna</p>
+										<p>Address: Nakuru</p>
+										<p>Email: marynjuguna@gmail.com</p>
+										<p>Position: Project Researcher</p>
+								</center>
+								</div>
+                                <div class="span3">
+															<center>
+								<img id="developers" src="admin/images/admin.jpg" class="img-circle">
+								<hr>
+												<p>Name: Tonny Odhiambo</p>
+										<p>Address: 234 - 40100 Kisumu</p>
+										<p>Email: tonnyodhiambo@gmail.com</p>
+										<p>Position: Project Manager</p>
+								</center>
+								</div>
+								<hr>
+                                <div class="span3">
+										<center>
+										<img id="developers" src="admin/images/admin.jpg" class="img-circle">
+										<hr>
+										<p>Name: Isaiah Chuchu</p>
+										<p>Address: Kisumu</p>
+										<p>Email: chuchuisaiah@gmail.com</p>
+										<p>Position: Project Researcher</p>
+										</center>
+								</div>
                             </div>
                         </div>
                         <!-- /block -->

@@ -1,8 +1,8 @@
 <center>
 		<footer>
 		
-		<p>&copy Kisumu CHMT Copyright 2018</p>
-			<!-- <p>Programmed by: Stephen Odipo</p> -->
+		<p>Academic Resource System &copy Copyright 2016</p>
+			<!-- <p>Programmed by: Stephen Odipo Odhiambo</p> -->
 		</footer>
 </center>
 

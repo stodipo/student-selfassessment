@@ -14,8 +14,8 @@
 								$school_year_query_row = mysql_fetch_array($school_year_query);
 								$school_year = $school_year_query_row['school_year'];
 								?>
-								<li><a href="#"><b>My Department</b></a><span class="divider">/</span></li>
-								<li><a href="#">Year: <?php echo $school_year_query_row['school_year']; ?></a></li>
+								<li><a href="#"><b>My Class</b></a><span class="divider">/</span></li>
+								<li><a href="#">School Year: <?php echo $school_year_query_row['school_year']; ?></a></li>
 						</ul>
 						 <!-- end breadcrumb -->
 					 
@@ -81,7 +81,7 @@
 									</div>
 									<div class="span8">
 											
-			<div class="alert alert-info">Check the department you want to upload this file.</div>
+			<div class="alert alert-info">Check The Class you want to put this file.</div>
 					
 									<div class="pull-left">
 							Check All <input type="checkbox"  name="selectAll" id="checkAll" />
@@ -96,8 +96,8 @@
 										<thead>
 										        <tr>
 												<th></th>
-												<th>Department</th>
-												<th>Training Code</th>
+												<th>Class Name</th>
+												<th>Subject Code</th>
 												</tr>
 												
 										</thead>

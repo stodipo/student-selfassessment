@@ -22,8 +22,8 @@
 					     <ul class="breadcrumb">
 							<li><a href="#"><?php echo $class_row['class_name']; ?></a> <span class="divider">/</span></li>
 							<li><a href="#"><?php echo $class_row['subject_code']; ?></a> <span class="divider">/</span></li>
-							<li><a href="#">My Employees</a><span class="divider">/</span></li>
-							<li><a href="#"><b>Add Employee</b></a></li>
+							<li><a href="#">My Students</a><span class="divider">/</span></li>
+							<li><a href="#"><b>Add Student</b></a></li>
 						</ul>
 						
 						 <!-- end breadcrumb -->
@@ -38,7 +38,7 @@
 									<form method="post" action="">
 
 							
-										<button name="submit" type="submit" class="btn btn-info"><i class="icon-save"></i>&nbsp;Add Employee</button>
+										<button name="submit" type="submit" class="btn btn-info"><i class="icon-save"></i>&nbsp;Add Student</button>
 												<br>
 												<br>
                            
@@ -50,7 +50,7 @@
                                
                                     <th>Photo</th>
                                     <th>Name</th>
-                                    <th>Department</th>
+                                    <th>Course Year and Section</th>
                   
                                     <th></th>
                                 </tr>
@@ -160,6 +160,11 @@ if (isset($_POST['submit'])){
 	 
 	
 	?>
+	
+					
+                      
+								
+                         
                             </tbody>
                         </table>
 						

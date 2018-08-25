@@ -1,13 +1,13 @@
 						<!-- block -->
                         <div class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div id="" class="muted pull-left"><h4><i class="icon-plus-sign"></i> Add Training</h4></div>
+                                <div id="" class="muted pull-left"><h4><i class="icon-plus-sign"></i> Add class</h4></div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
 								<form method="post" id="add_class">
 										<div class="control-group">
-											<label>Select Department:</label>
+											<label>Class Name:</label>
                                           <div class="controls">
 											<input type="hidden" name="session_id" value="<?php echo $session_id; ?>">
                                             <select name="class_id"  class="" required>
@@ -24,7 +24,7 @@
                                         </div>
 										
 										<div class="control-group">
-											<label>Training Topic:</label>
+											<label>Subject:</label>
                                           <div class="controls">
                                             <select name="subject_id"  class="" required>
                                              	<option></option>
@@ -40,7 +40,7 @@
                                         </div>
 										
 										<div class="control-group">
-											<label>Year:</label>
+											<label>School Year:</label>
                                           <div class="controls">
 											<?php
 											$query = mysql_query("select * from school_year order by school_year DESC");
@@ -69,9 +69,9 @@
 						success: function(html){
 						if(html=="true")
 						{
-						$.jGrowl("Training Already Exist", { header: 'Add Training Failed' });
+						$.jGrowl("Class Already Exist", { header: 'Add Class Failed' });
 						}else{
-							$.jGrowl("Training Successfully  Added", { header: 'Training Added' });
+							$.jGrowl("Classs Successfully  Added", { header: 'Class Added' });
 							var delay = 500;
 							setTimeout(function(){ window.location = 'dasboard_teacher.php'  }, delay);  
 						}

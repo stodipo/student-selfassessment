@@ -3,7 +3,7 @@
     <div class="container">
 
       <form id="login_form" class="form-signin" method="post">
-        <h3 class="form-signin-heading"><i class="icon-lock"></i> Please Login</h3>
+        <h3 class="form-signin-heading"><i class="icon-lock"></i> Admin Login</h3>
         <input type="text" class="input-block-level" id="usernmae" name="username" placeholder="Username" required>
         <input type="password" class="input-block-level" id="password" name="password" placeholder="Password" required>
         <button name="login" class="btn btn-info" type="submit"><i class="icon-signin icon-"></i> Sign in</button>
@@ -21,7 +21,7 @@
 						success: function(html){
 						if(html=='true')
 						{
-						$.jGrowl("Welcome to Employee Training Management System", { header: 'Access Granted' });
+						$.jGrowl("Welcome to Admin Panel: Student Assessment System", { header: 'Access Granted' });
 						var delay = 2000;
 							setTimeout(function(){ window.location = 'dashboard.php'  }, delay);  
 						}

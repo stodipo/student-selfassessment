@@ -1,5 +1,5 @@
 <div class="pull-right">
 		<footer>
-           <p>&copy Employee Training Management System 2018</p>
+           <p>&copy Student Assessment System Admin</p>
         <footer>
 </div>

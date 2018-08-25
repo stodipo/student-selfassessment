@@ -12,33 +12,37 @@
 		                        <!-- block -->
 		                        <div class="block">
 		                            <div class="navbar navbar-inner block-header">
-		                                <div class="muted pull-left">Add New Training</div>
+		                                <div class="muted pull-left">Add Subject</div>
 		                            </div>
 		                            <div class="block-content collapse in">
 									<a href="subjects.php"><i class="icon-arrow-left"></i> Back</a>
 									    <form class="form-horizontal" method="post">
 										<div class="control-group">
-											<label class="control-label" for="inputEmail">Training Code</label>
+											<label class="control-label" for="inputEmail">Subject Code</label>
 											<div class="controls">
-											<input type="text" name="subject_code" id="inputEmail" placeholder="Training Code">
+											<input type="text" name="subject_code" id="inputEmail" placeholder="Subject Code">
 											</div>
 										</div>
 										<div class="control-group">
-											<label class="control-label" for="inputPassword">Training Title</label>
+											<label class="control-label" for="inputPassword">Subject Title</label>
 											<div class="controls">
-											<input type="text" class="span8" name="title" id="inputPassword" placeholder="Training Title" required>
+											<input type="text" class="span8" name="title" id="inputPassword" placeholder="Subject Title" required>
 											</div>
 										</div>
 										<div class="control-group">
-											<label class="control-label" for="inputPassword">Number of Days</label>
+											<label class="control-label" for="inputPassword">Number of Units</label>
 											<div class="controls">
 											<input type="text" class="span1" name="unit" id="inputPassword" required>
 											</div>
 										</div>
 											<div class="control-group">
-											<label class="control-label" for="inputPassword">Venue</label>
+											<label class="control-label" for="inputPassword">Semester</label>
 											<div class="controls">
-											<input type="text" class="span8" name="semester" id="inputPassword" placeholder="Venue" required>
+												<select name="semester">
+													<option></option>
+													<option>1st</option>
+													<option>2nd</option>
+												</select>
 											</div>
 										</div>
 								

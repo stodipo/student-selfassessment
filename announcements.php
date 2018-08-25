@@ -34,7 +34,7 @@
 								<form method="post">
 								<textarea name="content" id="ckeditor_full"></textarea>
 								<br>
-								<button name="post" class="btn btn-info"><i class="icon-check icon-large"></i> Publish</button>
+								<button name="post" class="btn btn-info"><i class="icon-check icon-large"></i> Post</button>
 								</form>
                                 </div>
 								

@@ -9,8 +9,8 @@
                 <div class="span9" id="content">
                      <div class="row-fluid">
 						<div class="pull-right">
-							<a href="add_student.php<?php echo '?id='.$get_id; ?>" class="btn btn-info"><i class="icon-plus-sign"></i> Add Employee</a>
-							<a onclick="window.open('print_student.php<?php echo '?id='.$get_id; ?>')"  class="btn btn-success"><i class="icon-list"></i> Employee List</a>
+							<a href="add_student.php<?php echo '?id='.$get_id; ?>" class="btn btn-info"><i class="icon-plus-sign"></i> Add Student</a>
+							<a onclick="window.open('print_student.php<?php echo '?id='.$get_id; ?>')"  class="btn btn-success"><i class="icon-list"></i> Student List</a>
 						</div>
 						<?php include('my_students_breadcrums.php'); ?>
                         <!-- block -->
@@ -22,7 +22,7 @@
 														LEFT JOIN student ON student.student_id = teacher_class_student.student_id 
 														INNER JOIN class ON class.class_id = student.class_id where teacher_class_id = '$get_id' order by lastname ")or die(mysql_error());
 								$count_my_student = mysql_num_rows($my_student);?>
-								Number of Employees: <span class="badge badge-info"><?php echo $count_my_student; ?></span>
+								Number of Students: <span class="badge badge-info"><?php echo $count_my_student; ?></span>
 								</div>
                             </div>
                             <div class="block-content collapse in">
@@ -64,7 +64,7 @@
 															success: function(html){
 																$("#del"+id).fadeOut('slow', function(){ $(this).remove();}); 
 																$('#'+id).modal('hide');
-																$.jGrowl("Your Employee is Successfully Remove", { header: 'Employee Remove' });
+																$.jGrowl("Your Student is Successfully Remove", { header: 'Student Remove' });
 															}
 															}); 	
 															return false;

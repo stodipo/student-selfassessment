@@ -4,7 +4,7 @@
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span>
 					<span class="icon-bar"></span><span class="icon-bar"></span>
                 </a>
-                <a class="brand" href="#">Welcome to: Employee Training Management System</a>
+                <a class="brand" href="#">Welcome to: Academic Resource System</a>
 					<div class="nav-collapse collapse">
 						<ul class="nav pull-right">
 							<?php $query= mysql_query("select * from student where student_id = '$session_id'")or die(mysql_error());

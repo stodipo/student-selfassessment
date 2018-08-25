@@ -10,7 +10,7 @@
                         <!-- block -->
                         <div id="block_bg" class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left">Files Uploaded List</div>
+                                <div class="muted pull-left">Downloadable File Uploaded List</div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
@@ -18,11 +18,11 @@
 						
 										<thead>
 										        <tr>
-												<th>Date Uploaded</th>
+												<th>Date Upload</th>
 												<th>File Name</th>
 												<th>Description</th>
 												<th>Upload By</th>
-												<th>Department</th>
+												<th>Class</th>
                                    
 												</tr>
 												

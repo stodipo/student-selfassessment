@@ -2,7 +2,8 @@
 						<h3 class="form-signin-heading"><i class="icon-lock"></i> Sign in</h3>
 						<input type="text" class="input-block-level" id="username" name="username" placeholder="Username" required>
 						<input type="password" class="input-block-level" id="password" name="password" placeholder="Password" required>
-						<button data-placement="right" title="Click Here to Sign In" id="signin" name="login" class="btn btn-info" type="submit"><i class="icon-signin icon-large"></i> Sign in</button>
+						<button data-placement="right" tit
+						le="Click Here to Sign In" id="signin" name="login" class="btn btn-info" type="submit"><i class="icon-signin icon-large"></i> Sign in</button>
 														<script type="text/javascript">
 														$(document).ready(function(){
 															$('#signin').tooltip('show');
@@ -23,11 +24,11 @@
 									if(html=='true')
 									{
 									$.jGrowl("Loading File Please Wait......", { sticky: true });
-									$.jGrowl("Welcome to Employee Training Database", { header: 'Access Granted' });
+									$.jGrowl("Welcome to the Academic Resource System", { header: 'Access Granted' });
 									var delay = 1000;
 										setTimeout(function(){ window.location = 'dasboard_teacher.php'  }, delay);  
 									}else if (html == 'true_student'){
-										$.jGrowl("Welcome to Employee Training Database", { header: 'Access Granted' });
+										$.jGrowl("Welcome to the Academic Resource System", { header: 'Access Granted' });
 									var delay = 1000;
 										setTimeout(function(){ window.location = 'student_notification.php'  }, delay);  
 									}else
@@ -41,12 +42,12 @@
 						});
 						</script>
 			<div id="button_form" class="form-signin" >
-			New to Employee Training Database
+			Access a new account
 			<hr>
 				<h3 class="form-signin-heading"><i class="icon-edit"></i> Sign up</h3>
-				<button data-placement="top" title="Sign In as Employee" id="signin_student" onclick="window.location='signup_student.php'" id="btn_student" name="login" class="btn btn-info" type="submit">I`m an Employee</button>
+				<button data-placement="top" title="Sign In as Student" id="signin_student" onclick="window.location='signup_student.php'" id="btn_student" name="login" class="btn btn-info" type="submit">I`m a Student</button>
 				<div class="pull-right">
-					<button data-placement="top" title="Sign In as Training Admin" id="signin_teacher" onclick="window.location='signup_teacher.php'" name="login" class="btn btn-info" type="submit">I`m a Training Admin</button>
+					<button data-placement="top" title="Lecturer" id="signin_lecturer" onclick="window.location='signup_teacher.php'" name="login" class="btn btn-info" type="submit">I`m a lecturer</button>
 				</div>
 			</div>
 														<script type="text/javascript">
@@ -56,6 +57,6 @@
 														</script>	
 														<script type="text/javascript">
 														$(document).ready(function(){
-															$('#signin_teacher').tooltip('show'); $('#signin_teacher').tooltip('hide');
+															$('#signin_lecturer').tooltip('show'); $('#signin_lecturer').tooltip('hide');
 														});
 														</script>	

@@ -2,7 +2,7 @@
                         <!-- block -->
                         <div class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left">Add Employee</div>
+                                <div class="muted pull-left">Add Student</div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span12">
@@ -67,7 +67,7 @@
 						url: "save_student.php",
 						data: formData,
 						success: function(html){
-							$.jGrowl("Employee Successfully  Added", { header: 'Employee Added' });
+							$.jGrowl("Student Successfully  Added", { header: 'Student Added' });
 							$('#studentTableDiv').load('student_table.php', function(response){
 								$("#studentTableDiv").html(response);
 								$('#example').dataTable( {

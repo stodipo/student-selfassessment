@@ -10,7 +10,7 @@
                      <div class="row-fluid">
 						<div class="pull-right">
 						
-							<a id="print" onclick="window.print()"  class="btn btn-success"><i class="icon-print"></i> Print Employee List</a>
+							<a id="print" onclick="window.print()"  class="btn btn-success"><i class="icon-print"></i> Print Student List</a>
 						</div>
 						<?php include('my_students_breadcrums.php'); ?>
                         <!-- block -->
@@ -27,7 +27,6 @@
 							
 										<thead>
 										        <tr>
-												<!--<th>No</th>-->
 												<th>Firstname</th>
 												<th>Lastname</th>
 												</tr>
@@ -43,7 +42,7 @@
 														$id = $row['teacher_class_student_id'];
 														?>                          
 										<tr id="del<?php echo $id; ?>">
-										<!--<td><ol><li></li></ol></td>-->					
+									
 										 <td><?php echo $row['firstname']; ?></td>
                                          <td><?php  echo $row['lastname']; ?></td>
                              

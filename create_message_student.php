@@ -70,7 +70,7 @@
 						data: formData,
 						success: function(html){
 						
-						$.jGrowl("Message Successfully Sended", { header: 'Message Sent' });
+						$.jGrowl("Message Successfully Sent", { header: 'Message Sent' });
 						var delay = 2000;
 							setTimeout(function(){ window.location = 'student_message.php'  }, delay);  
 						

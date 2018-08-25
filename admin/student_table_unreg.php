@@ -8,10 +8,10 @@
 					<a href="students.php">All</a>
 				</li>
 				<li class="active">
-					<a href="unreg_students.php">Inactive</a>
+					<a href="unreg_students.php">Unregistered</a>
 				</li>
 				<li class="">
-				<a href="reg_students.php">Active</a>
+				<a href="reg_students.php">Registered</a>
 				</li>
 				</ul>
 	</div>
@@ -22,7 +22,8 @@
 				
 					<th>Name</th>
 					<th>ID Number</th>
-					<th>Department</th>
+			
+					<th>Course Yr & Section</th>
 					<th></th>
 		</tr>
 		</thead>
