@@ -44,11 +44,11 @@
 												<tr>
 												<td bgcolor="#aaa">
 												<ul>
-												<p><li>Easy to use interface</li></p>
-												<p><li>Provides a communication platform between users</li></p>
-												<p><li>Available online:anytime, anywhere and on demand</li></p>
-												<p><li>Provides academic resources to the students aimed at academic excellence</li></p>
-												<li>Content is available for future reference</li>
+												<li>Easy to use interface</li>
+												<li>Assess understanding, as well as knowledge</li>
+												<li>Improves student engagement</li>
+												<li>Consolidated learning</li>
+												<li>Promote Student-centered learning </li>
 												</ul>
 												</td>
 												</tr>
