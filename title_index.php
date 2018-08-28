@@ -4,12 +4,11 @@
 						<div class="span12">
 						
 						</div>	
-													
 							</div>
 							<div class="row-fluid">
 
 						<div class="span15">
-						<img class="index_logo" src="admin/images/banner1.jpg" height="20% width="30%">
+						<img class="index_logo" src="admin/images/banner2.jpg"><br/>
 						</div>	
 						<div class="span8">
 						<div class="hero-unit-3">
@@ -24,7 +23,7 @@
                 </div>
 						
 								<div class="title">
-							<p class="ars">Designed By Group 2</p>
+							<p class="ars">"Our focus is student centered evaluation"</p>
 							<h4>
 
 							<p><font color="purple">Maseno Academic Resource System</p></font>
