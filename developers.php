@@ -24,47 +24,7 @@
 										</center>
 								</div>
                                 <div class="span3">
-															<center>
-								<img id="developers" src="admin/images/admin.jpg" class="img-circle">
-								<hr>
-										<p>Name: Alex Kimeu</p>
-
-										<p>Address: Nairobi</p>
-										<p>Email: kimeualexis@gmail.com</p>
-										<p>Position: Programmer</p>
-								</center>
-								</div>
-                                <div class="span3">
-															<center>
-								<img id="developers" src="admin/images/admin.jpg" class="img-circle">
-								<hr>
-												<p>Name: Mary Njuguna</p>
-										<p>Address: Nakuru</p>
-										<p>Email: marynjuguna@gmail.com</p>
-										<p>Position: Project Researcher</p>
-								</center>
-								</div>
-                                <div class="span3">
-															<center>
-								<img id="developers" src="admin/images/admin.jpg" class="img-circle">
-								<hr>
-												<p>Name: Tonny Odhiambo</p>
-										<p>Address: 234 - 40100 Kisumu</p>
-										<p>Email: tonnyodhiambo@gmail.com</p>
-										<p>Position: Project Manager</p>
-								</center>
-								</div>
-								<hr>
-                                <div class="span3">
-										<center>
-										<img id="developers" src="admin/images/admin.jpg" class="img-circle">
-										<hr>
-										<p>Name: Isaiah Chuchu</p>
-										<p>Address: Kisumu</p>
-										<p>Email: chuchuisaiah@gmail.com</p>
-										<p>Position: Project Researcher</p>
-										</center>
-								</div>
+															
                             </div>
                         </div>
                         <!-- /block -->

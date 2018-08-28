@@ -24,11 +24,11 @@
 									if(html=='true')
 									{
 									$.jGrowl("Loading File Please Wait......", { sticky: true });
-									$.jGrowl("Welcome to the Academic Resource System", { header: 'Access Granted' });
+									$.jGrowl("Welcome to the Student Self-Assessment System", { header: 'Access Granted' });
 									var delay = 1000;
 										setTimeout(function(){ window.location = 'dasboard_teacher.php'  }, delay);  
 									}else if (html == 'true_student'){
-										$.jGrowl("Welcome to the Academic Resource System", { header: 'Access Granted' });
+										$.jGrowl("Welcome to the Student Self-Assessment System", { header: 'Access Granted' });
 									var delay = 1000;
 										setTimeout(function(){ window.location = 'student_notification.php'  }, delay);  
 									}else
