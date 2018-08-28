@@ -5,7 +5,6 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</a>
-             
 							<div class="nav-collapse collapse">
 							<ul class="nav" id="footer_nav">
 			<li class="divider-vertical"></li>
@@ -19,7 +18,7 @@
 			<li class="divider-vertical"></li>
 			<li class="active"><a href="contactus.php"><i class="icon-user"></i><b>&nbsp;CONTACT US</b></font></a></li>
 			<li class="divider-vertical"></li>
-		<li class="active"><a href="#campuses" data-toggle="modal"><i class="icon-building"></i><b>&nbsp;CAMPUSES</b</font></a></li>
+		<li class="active"><a href="#campuses" data-toggle="modal"><i class="icon-building"></i><b>&nbsp;COUNTIES</b</font></a></li>
 				<?php include('campuses.php'); ?>
 			<li class="divider-vertical"></li>
 
