@@ -23,10 +23,10 @@
                 </div>
 						
 								<div class="title">
-							<p class="ars">"Our focus is student centered evaluation"</p>
+							<!--<p class="ars">"Our focus is student centered evaluation"</p>-->
 							<h4>
 
-							<p><font color="purple">Maseno Academic Resource System</p></font>
+							<p><font color="blue">"Our focus is student centered evaluation"</p></font>
 							</h4>		
 						</div>
 			
@@ -39,15 +39,15 @@
 						<div class="span10">
 						<br>
 								<div class="motto">
-												<table border="1" border color="blue">
+												<table border="1" border color="black">
 												<th bgcolor="purple">FEATURES:</th>
 												<tr>
 												<td bgcolor="#aaa">
 												<ul>
-												<li>Easy to use interface</li>
-												<li>Assess understanding, as well as knowledge</li>
-												<li>Improves student engagement</li>
-												<li>Consolidated learning</li>
+												<li>Easy to use interface</li><br />
+												<li>Assess understanding, as well as knowledge </li><br />
+												<li>Improves student engagement</li><br />
+												<li>Consolidated learning</li><br />
 												<li>Promote Student-centered learning </li>
 												</ul>
 												</td>
