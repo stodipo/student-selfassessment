@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>Academic Resource System</title>
-		<meta name="description" content="Student Academic Resource System">
-		<meta name="keywords" content="Academic Resource System">
-		<meta name="author" content="STEPHEN ODIPO">
+        <title>Student Self Assessment</title>
+		<meta name="description" content="Student Self Assessment System">
+		<meta name="keywords" content="Student Self Assessment">
+		<meta name="author" content="STEPHEN ODIPO ODHIAMBO">
 		<meta charset="UTF-8">
         <!-- Bootstrap -->
 				<link href="admin/images/favicon.ico" rel="icon" type="image">
@@ -22,7 +22,7 @@
 				<link href="admin/assets/DT_bootstrap.css" rel="stylesheet" media="screen"/>
 				<!-- notification  -->
 				<link href="admin/vendors/jGrowl/jquery.jgrowl.css" rel="stylesheet" media="screen"/>
-				<!-- wysiwug  -->
+				<!-- wysiwug- the what you see is what you get  -->
 				<link rel="stylesheet" type="text/css" href="admin/vendors/bootstrap-wysihtml5/src/bootstrap-wysihtml5.css"/>
 		<script src="admin/vendors/jquery-1.9.1.min.js"></script>
         <script src="admin/vendors/modernizr-2.6.2-respond-1.1.0.min.js"></script>
