@@ -9,7 +9,7 @@ function DbConnector(){
 
         // Get the main settings from the array we just loaded
         $host = 'localhost';
-        $db = 'capstone';
+        $db = 'studentassessment';
         $user = 'root';
         $pass = '';
 
