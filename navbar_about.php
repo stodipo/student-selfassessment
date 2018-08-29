@@ -5,7 +5,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</a>
-                   <a class="brand" href="#">Welcome to the Academic Resource System</a>
+                   <a class="brand" href="#">Welcome to the Student Self-Assessment System</a>
 							<div class="nav-collapse collapse">
 								<ul class="nav pull-right">
 	
