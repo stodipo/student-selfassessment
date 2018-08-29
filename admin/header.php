@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>Admin Centre</title>
+        <title>Admin Centre: Student Self-Assessment System</title>
         <!-- Bootstrap -->
 			<!-- <link href="images/logo.png" rel="icon" type="image"> -->
 			<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">

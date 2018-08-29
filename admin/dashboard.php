@@ -26,7 +26,7 @@
 								
                                 <div class="span3">
                                     <div class="chart" data-percent="<?php echo $count_reg_teacher; ?>"><?php echo $count_reg_teacher; ?></div>
-                                    <div class="chart-bottom-heading"><strong>Registered Teacher</strong>
+                                    <div class="chart-bottom-heading"><strong>Active Teachers</strong>
 
                                     </div>
                                 </div>
