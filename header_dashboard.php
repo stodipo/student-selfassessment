@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>About:Academic Resource System</title>
-		<meta name="description" content="Academic Resource System">
-		<meta name="keywords" content="ARS, Academic Resource System">
+        <title>About:Student Assessment System</title>
+		<meta name="description" content="Student Assessment System">
+		<meta name="keywords" content="ARS, Student Assessment System">
 		<meta name="author" content="Stephen Odipo Odhiambo">
 		<meta charset="UTF-8">
         <!-- Bootstrap -->
