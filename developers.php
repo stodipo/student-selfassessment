@@ -20,7 +20,7 @@
 										<p>Name: Stephen Odhiambo Odipo</p>
 										<p>Address: P.O BOX 6627 - 40103 Kisumu</p>
 										<p>Email: odipo87@gmail.com</p>
-										<p>Position: Programmer</p>
+										<p>Position: System Administrator</p>
 										</center>
 								</div>
                                 <div class="span3">
