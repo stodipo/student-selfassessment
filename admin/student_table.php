@@ -21,9 +21,9 @@
 					<th></th>
 				
 					<th>Name</th>
-					<th>ID Number</th>
+					<th>Admission No</th>
 			
-					<th>Course Year & Section</th>
+					<th>Class</th>
 					<th></th>
 		</tr>
 		</thead>

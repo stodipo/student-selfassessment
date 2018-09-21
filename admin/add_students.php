@@ -26,7 +26,7 @@
 								
 										<div class="control-group">
                                           <div class="controls">
-                                            <input name="un" class="input focused" id="focusedInput" type="text" placeholder = "ID Number" required>
+                                            <input name="un" class="input focused" id="focusedInput" type="text" placeholder = "Admission No" required>
                                           </div>
                                         </div>
 										
