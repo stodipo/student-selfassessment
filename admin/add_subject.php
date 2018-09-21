@@ -18,7 +18,7 @@
 									<a href="subjects.php"><i class="icon-arrow-left"></i> Back</a>
 									    <form class="form-horizontal" method="post">
 										<div class="control-group">
-											<label class="control-label" for="inputEmail">Subject Code</label>
+											<label class="control-label" for="inputEmail">Subject Short Code</label>
 											<div class="controls">
 											<input type="text" name="subject_code" id="inputEmail" placeholder="Subject Code">
 											</div>
@@ -30,18 +30,19 @@
 											</div>
 										</div>
 										<div class="control-group">
-											<label class="control-label" for="inputPassword">Number of Units</label>
+											<label class="control-label" for="inputPassword">Number of Topics</label>
 											<div class="controls">
 											<input type="text" class="span1" name="unit" id="inputPassword" required>
 											</div>
 										</div>
 											<div class="control-group">
-											<label class="control-label" for="inputPassword">Semester</label>
+											<label class="control-label" for="inputPassword">Term</label>
 											<div class="controls">
 												<select name="semester">
 													<option></option>
 													<option>1st</option>
 													<option>2nd</option>
+													<option>3rd</option>
 												</select>
 											</div>
 										</div>
