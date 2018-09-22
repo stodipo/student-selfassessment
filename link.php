@@ -21,7 +21,6 @@
 		<li class="active"><a href="#campuses" data-toggle="modal"><i class="icon-building"></i><font color=blue><b>&nbsp;COUNTIES</b</font></a></li>
 				<?php include('campuses.php'); ?>
 			<li class="divider-vertical"></li>
-
 	
 	</ul>
 							</div>

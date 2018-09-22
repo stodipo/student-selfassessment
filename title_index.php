@@ -42,7 +42,7 @@
 												<table border="1" border color="black">
 												<th bgcolor="purple">FEATURES:</th>
 												<tr>
-												<td bgcolor="#aaa">
+												<td bgcolor="#0000FF">
 												<ul>
 												<li>Easy to use interface</li><br />
 												<li>Assess understanding, as well as knowledge </li><br />
